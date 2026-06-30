@@ -10,8 +10,8 @@ textDirection:'ltr'
 Slide392:{
 lb:'',
 id:392,
-from:1351,
-to:1440,
+from:1891,
+to:1980,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -88,8 +88,8 @@ visible:'1'
 si680:{
 name:'List_1',
 type:1268,
-from:1441,
-to:1530,
+from:1711,
+to:1800,
 rp:0,
 rpa:0,
 mdi:'si680c',
@@ -255,8 +255,8 @@ vb:[-1,-1,1,1]
 si688:{
 name:'List_Group_1',
 type:1268,
-from:1441,
-to:1530,
+from:1711,
+to:1800,
 rp:0,
 rpa:0,
 mdi:'si688c',
@@ -427,8 +427,8 @@ vb:[-1,-1,1,1]
 si696:{
 name:'Text_7',
 type:1250,
-from:1441,
-to:1530,
+from:1711,
+to:1800,
 rp:0,
 rpa:0,
 mdi:'si696c',
@@ -458,7 +458,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"78cp1","text":"Evaluate Training: Measuring Effectiveness","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":42,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":42,"style":"textOutlineEnable:false"},{"offset":0,"length":42,"style":"opacity:1"},{"offset":0,"length":42,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":42,"style":"hlnke:true"},{"offset":0,"length":42,"style":"defaultTextShadow:none"},{"offset":0,"length":42,"style":"letterSpacing:-1%"},{"offset":0,"length":42,"style":"textShadow:none"},{"offset":0,"length":42,"style":"tablet-fontSize:48"},{"offset":0,"length":42,"style":"textShadowX:0px"},{"offset":0,"length":42,"style":"fontStretch:normal"},{"offset":0,"length":42,"style":"fontType:regular"},{"offset":0,"length":42,"style":"lineHeight:107%"},{"offset":0,"length":42,"style":"color:#333333"},{"offset":0,"length":42,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":42,"style":"textShadowY:4px"},{"offset":0,"length":42,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":42,"style":"textHighlightEnable:false"},{"offset":0,"length":42,"style":"textTransform:none"},{"offset":0,"length":42,"style":"textShadowOpacity:none"},{"offset":0,"length":42,"style":"textDecoration:none"},{"offset":0,"length":42,"style":"desktop-fontSize:52"},{"offset":0,"length":42,"style":"borderBottomStyle:none"},{"offset":0,"length":42,"style":"textShadowEnable:false"},{"offset":0,"length":42,"style":"hlnk:"},{"offset":0,"length":42,"style":"fontWeight:normal"},{"offset":0,"length":42,"style":"textShadowBlur:8px"},{"offset":0,"length":42,"style":"fontFamily:Arial"},{"offset":0,"length":42,"style":"overridden:false"},{"offset":0,"length":42,"style":"backgroundColor:unset"},{"offset":0,"length":42,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":42,"style":"hlnkt:wp"},{"offset":0,"length":42,"style":"fontStyle:normal"},{"offset":0,"length":42,"style":"mobile-fontSize:24"},{"offset":0,"length":42,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"78cp1","text":"Evaluate Training: Measuring Effectiveness","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":42,"style":"backgroundColor:unset"},{"offset":0,"length":42,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":42,"style":"hlnkt:wp"},{"offset":0,"length":42,"style":"fontStyle:normal"},{"offset":0,"length":42,"style":"mobile-fontSize:24"},{"offset":0,"length":42,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":42,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":42,"style":"textOutlineEnable:false"},{"offset":0,"length":42,"style":"opacity:1"},{"offset":0,"length":42,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":42,"style":"hlnke:true"},{"offset":0,"length":42,"style":"defaultTextShadow:none"},{"offset":0,"length":42,"style":"letterSpacing:-1%"},{"offset":0,"length":42,"style":"textShadow:none"},{"offset":0,"length":42,"style":"tablet-fontSize:48"},{"offset":0,"length":42,"style":"textShadowX:0px"},{"offset":0,"length":42,"style":"fontStretch:normal"},{"offset":0,"length":42,"style":"fontType:regular"},{"offset":0,"length":42,"style":"lineHeight:107%"},{"offset":0,"length":42,"style":"color:#333333"},{"offset":0,"length":42,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":42,"style":"textShadowY:4px"},{"offset":0,"length":42,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":42,"style":"textHighlightEnable:false"},{"offset":0,"length":42,"style":"textTransform:none"},{"offset":0,"length":42,"style":"textShadowOpacity:none"},{"offset":0,"length":42,"style":"textDecoration:none"},{"offset":0,"length":42,"style":"desktop-fontSize:52"},{"offset":0,"length":42,"style":"borderBottomStyle:none"},{"offset":0,"length":42,"style":"textShadowEnable:false"},{"offset":0,"length":42,"style":"hlnk:"},{"offset":0,"length":42,"style":"fontWeight:normal"},{"offset":0,"length":42,"style":"textShadowBlur:8px"},{"offset":0,"length":42,"style":"fontFamily:Arial"},{"offset":0,"length":42,"style":"overridden:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","listIndent":"100%","verticalAlign":"middle","overridden":"false","marginLeft":"0px","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -3313,8 +3313,8 @@ vb:[-1,-1,2,2]
 Slide429:{
 lb:'Blank 1',
 id:429,
-from:1441,
-to:1530,
+from:1711,
+to:1800,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -3411,8 +3411,8 @@ visible:'1'
 si1178:{
 name:'List_2',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1178c',
@@ -3578,8 +3578,8 @@ vb:[-1,-1,1,1]
 si1186:{
 name:'List_Group_2',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1186c',
@@ -3750,8 +3750,8 @@ vb:[-1,-1,1,1]
 si1194:{
 name:'Text_25',
 type:1250,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1194c',
@@ -3781,7 +3781,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"78cp1","text":"Evaluate Training: Measuring Effectiveness","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":42,"style":"hlnk:"},{"offset":0,"length":42,"style":"hlnkt:wp"},{"offset":0,"length":42,"style":"textOutlineEnable:false"},{"offset":0,"length":42,"style":"opacity:1"},{"offset":0,"length":42,"style":"hlnke:true"},{"offset":0,"length":42,"style":"backgroundColor:unset"},{"offset":0,"length":42,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":42,"style":"textHighlightEnable:false"},{"offset":0,"length":42,"style":"textShadowEnable:false"},{"offset":0,"length":42,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-heading-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"78cp1","text":"Evaluate Training: Measuring Effectiveness","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":42,"style":"textHighlightEnable:false"},{"offset":0,"length":42,"style":"textShadowEnable:false"},{"offset":0,"length":42,"style":"overridden:false"},{"offset":0,"length":42,"style":"hlnk:"},{"offset":0,"length":42,"style":"hlnkt:wp"},{"offset":0,"length":42,"style":"textOutlineEnable:false"},{"offset":0,"length":42,"style":"opacity:1"},{"offset":0,"length":42,"style":"hlnke:true"},{"offset":0,"length":42,"style":"backgroundColor:unset"},{"offset":0,"length":42,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"presetId":"text-heading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -3903,8 +3903,8 @@ vb:[-1,-1,2,2]
 si1210:{
 name:'Text_27',
 type:1250,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1210c',
@@ -3934,7 +3934,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"4dvd5","text":"Overview","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":8,"style":"hlnk:"},{"offset":0,"length":8,"style":"hlnkt:wp"},{"offset":0,"length":8,"style":"textOutlineEnable:false"},{"offset":0,"length":8,"style":"opacity:1"},{"offset":0,"length":8,"style":"hlnke:true"},{"offset":0,"length":8,"style":"backgroundColor:unset"},{"offset":0,"length":8,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":8,"style":"textHighlightEnable:false"},{"offset":0,"length":8,"style":"textShadowEnable:false"},{"offset":0,"length":8,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#163EE5","overridden":"false","verticalAlign":"middle"}},{"key":"464sj","text":"What to evaluate","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":16,"style":"hlnk:"},{"offset":0,"length":16,"style":"hlnkt:wp"},{"offset":0,"length":16,"style":"textOutlineEnable:false"},{"offset":0,"length":16,"style":"opacity:1"},{"offset":0,"length":16,"style":"hlnke:true"},{"offset":0,"length":16,"style":"backgroundColor:unset"},{"offset":0,"length":16,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":16,"style":"textHighlightEnable:false"},{"offset":0,"length":16,"style":"textShadowEnable:false"},{"offset":0,"length":16,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#163EE5","overridden":"false","verticalAlign":"middle"}},{"key":"do4af","text":"When to evaluate training effectiveness","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":39,"style":"textOutlineEnable:false"},{"offset":0,"length":39,"style":"opacity:1"},{"offset":0,"length":39,"style":"hlnke:true"},{"offset":0,"length":39,"style":"backgroundColor:unset"},{"offset":0,"length":39,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":39,"style":"textHighlightEnable:false"},{"offset":0,"length":39,"style":"textShadowEnable:false"},{"offset":0,"length":39,"style":"overridden:false"},{"offset":0,"length":39,"style":"hlnk:"},{"offset":0,"length":39,"style":"hlnkt:wp"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#163EE5","overridden":"false","verticalAlign":"middle"}},{"key":"9damk","text":"Recommended training effectiveness questions","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":44,"style":"hlnk:"},{"offset":0,"length":44,"style":"hlnkt:wp"},{"offset":0,"length":44,"style":"textOutlineEnable:false"},{"offset":0,"length":44,"style":"opacity:1"},{"offset":0,"length":44,"style":"hlnke:true"},{"offset":0,"length":44,"style":"backgroundColor:unset"},{"offset":0,"length":44,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":44,"style":"textHighlightEnable:false"},{"offset":0,"length":44,"style":"textShadowEnable:false"},{"offset":0,"length":44,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#163EE5","listIndent":"100%","listSize":"100%","verticalAlign":"middle","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"7v6qk","text":"Resources","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":9,"style":"hlnk:"},{"offset":0,"length":9,"style":"hlnkt:wp"},{"offset":0,"length":9,"style":"textOutlineEnable:false"},{"offset":0,"length":9,"style":"opacity:1"},{"offset":0,"length":9,"style":"hlnke:true"},{"offset":0,"length":9,"style":"backgroundColor:unset"},{"offset":0,"length":9,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":9,"style":"textHighlightEnable:false"},{"offset":0,"length":9,"style":"textShadowEnable:false"},{"offset":0,"length":9,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#163EE5","listIndent":"100%","listSize":"100%","verticalAlign":"middle","listDepth":"0","overridden":"false","presetId":"text-body-2"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"4dvd5","text":"Overview","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":8,"style":"hlnk:"},{"offset":0,"length":8,"style":"hlnkt:wp"},{"offset":0,"length":8,"style":"textOutlineEnable:false"},{"offset":0,"length":8,"style":"opacity:1"},{"offset":0,"length":8,"style":"hlnke:true"},{"offset":0,"length":8,"style":"backgroundColor:unset"},{"offset":0,"length":8,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":8,"style":"textHighlightEnable:false"},{"offset":0,"length":8,"style":"textShadowEnable:false"},{"offset":0,"length":8,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#163EE5","overridden":"false","verticalAlign":"middle"}},{"key":"464sj","text":"What to evaluate","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":16,"style":"hlnkt:wp"},{"offset":0,"length":16,"style":"textOutlineEnable:false"},{"offset":0,"length":16,"style":"opacity:1"},{"offset":0,"length":16,"style":"hlnke:true"},{"offset":0,"length":16,"style":"backgroundColor:unset"},{"offset":0,"length":16,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":16,"style":"textHighlightEnable:false"},{"offset":0,"length":16,"style":"textShadowEnable:false"},{"offset":0,"length":16,"style":"overridden:false"},{"offset":0,"length":16,"style":"hlnk:"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#163EE5","overridden":"false","verticalAlign":"middle"}},{"key":"do4af","text":"When to evaluate training effectiveness","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":39,"style":"hlnk:"},{"offset":0,"length":39,"style":"hlnkt:wp"},{"offset":0,"length":39,"style":"textOutlineEnable:false"},{"offset":0,"length":39,"style":"opacity:1"},{"offset":0,"length":39,"style":"hlnke:true"},{"offset":0,"length":39,"style":"backgroundColor:unset"},{"offset":0,"length":39,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":39,"style":"textHighlightEnable:false"},{"offset":0,"length":39,"style":"textShadowEnable:false"},{"offset":0,"length":39,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#163EE5","overridden":"false","verticalAlign":"middle"}},{"key":"9damk","text":"Recommended training effectiveness questions","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":44,"style":"hlnk:"},{"offset":0,"length":44,"style":"hlnkt:wp"},{"offset":0,"length":44,"style":"textOutlineEnable:false"},{"offset":0,"length":44,"style":"opacity:1"},{"offset":0,"length":44,"style":"hlnke:true"},{"offset":0,"length":44,"style":"backgroundColor:unset"},{"offset":0,"length":44,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":44,"style":"textHighlightEnable:false"},{"offset":0,"length":44,"style":"textShadowEnable:false"},{"offset":0,"length":44,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#163EE5","listIndent":"100%","listSize":"100%","verticalAlign":"middle","listDepth":"0","overridden":"false","presetId":"text-body-2"}},{"key":"7v6qk","text":"Resources","type":"unordered-list-item","depth":0,"inlineStyleRanges":[{"offset":0,"length":9,"style":"opacity:1"},{"offset":0,"length":9,"style":"hlnke:true"},{"offset":0,"length":9,"style":"backgroundColor:unset"},{"offset":0,"length":9,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":9,"style":"textHighlightEnable:false"},{"offset":0,"length":9,"style":"textShadowEnable:false"},{"offset":0,"length":9,"style":"overridden:false"},{"offset":0,"length":9,"style":"hlnk:"},{"offset":0,"length":9,"style":"hlnkt:wp"},{"offset":0,"length":9,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#163EE5","listIndent":"100%","listSize":"100%","verticalAlign":"middle","listDepth":"0","overridden":"false","presetId":"text-body-2"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -4056,8 +4056,8 @@ vb:[-1,-1,2,2]
 si1260:{
 name:'Paragraph_5',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1260c',
@@ -4223,8 +4223,8 @@ vb:[-1,-1,1,1]
 si1268:{
 name:'Paragraph_Group_5',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1268c',
@@ -4548,8 +4548,8 @@ vb:[-1,-1,2,2]
 si1292:{
 name:'Text_30',
 type:1250,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1292c',
@@ -4579,7 +4579,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"9dib9","text":"The goal of training is to help a learner improve their competence, capacity, and performance. Training helps learners gain new knowledge and skill. The most effective training also helps learners apply this information to their workplace, a process known as transfer of learning. Training effectiveness refers to how well your training supports learning and learning transfer. There are many ways to evaluate training effectiveness.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":433,"style":"hlnk:"},{"offset":0,"length":433,"style":"hlnkt:wp"},{"offset":0,"length":433,"style":"textOutlineEnable:false"},{"offset":0,"length":433,"style":"opacity:1"},{"offset":0,"length":433,"style":"hlnke:true"},{"offset":0,"length":433,"style":"backgroundColor:unset"},{"offset":0,"length":433,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":433,"style":"textHighlightEnable:false"},{"offset":0,"length":433,"style":"textShadowEnable:false"},{"offset":0,"length":433,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"9dib9","text":"The goal of training is to help a learner improve their competence, capacity, and performance. Training helps learners gain new knowledge and skill. The most effective training also helps learners apply this information to their workplace, a process known as transfer of learning. Training effectiveness refers to how well your training supports learning and learning transfer. There are many ways to evaluate training effectiveness.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":433,"style":"hlnk:"},{"offset":0,"length":433,"style":"hlnkt:wp"},{"offset":0,"length":433,"style":"textOutlineEnable:false"},{"offset":0,"length":433,"style":"opacity:1"},{"offset":0,"length":433,"style":"hlnke:true"},{"offset":0,"length":433,"style":"backgroundColor:unset"},{"offset":0,"length":433,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":433,"style":"textHighlightEnable:false"},{"offset":0,"length":433,"style":"textShadowEnable:false"},{"offset":0,"length":433,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -4854,8 +4854,8 @@ vb:[-1,-1,2,2]
 si1369:{
 name:'Text_33',
 type:1250,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1369c',
@@ -4885,7 +4885,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"9dib9","text":"You should assess both learning and learning transfer, whenever possible.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":73,"style":"hlnk:"},{"offset":0,"length":73,"style":"hlnkt:wp"},{"offset":0,"length":73,"style":"textOutlineEnable:false"},{"offset":0,"length":73,"style":"opacity:1"},{"offset":0,"length":73,"style":"hlnke:true"},{"offset":0,"length":73,"style":"backgroundColor:unset"},{"offset":0,"length":73,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":73,"style":"textHighlightEnable:false"},{"offset":0,"length":73,"style":"textShadowEnable:false"},{"offset":0,"length":73,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"9dib9","text":"You should assess both learning and learning transfer, whenever possible.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":73,"style":"hlnk:"},{"offset":0,"length":73,"style":"hlnkt:wp"},{"offset":0,"length":73,"style":"textOutlineEnable:false"},{"offset":0,"length":73,"style":"opacity:1"},{"offset":0,"length":73,"style":"hlnke:true"},{"offset":0,"length":73,"style":"backgroundColor:unset"},{"offset":0,"length":73,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":73,"style":"textHighlightEnable:false"},{"offset":0,"length":73,"style":"textShadowEnable:false"},{"offset":0,"length":73,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -5007,8 +5007,8 @@ vb:[-1,-1,2,2]
 si1420:{
 name:'Paragraph_Group_6',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1420c',
@@ -5179,8 +5179,8 @@ vb:[-1,-1,1,1]
 si1426:{
 name:'Paragraph_6',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1426c',
@@ -5346,8 +5346,8 @@ vb:[-1,-1,1,1]
 si1427:{
 name:'Paragraph_7',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1427c',
@@ -5513,8 +5513,8 @@ vb:[-1,-1,1,1]
 si1435:{
 name:'Paragraph_Group_7',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1435c',
@@ -5838,8 +5838,8 @@ vb:[-1,-1,2,2]
 si1459:{
 name:'Text_36',
 type:1250,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1459c',
@@ -5869,7 +5869,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"9dib9","text":"Design your evaluation to assess how successfully the learner met the training\'s learning objectives. Look at the combined results for all learners to help you understand their learning and identify data trends that indicate challenging topics for your learners—which might show a need to improve course content or instruction.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":327,"style":"hlnk:"},{"offset":0,"length":327,"style":"hlnkt:wp"},{"offset":0,"length":327,"style":"textOutlineEnable:false"},{"offset":0,"length":327,"style":"opacity:1"},{"offset":0,"length":327,"style":"hlnke:true"},{"offset":0,"length":327,"style":"backgroundColor:unset"},{"offset":0,"length":327,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":327,"style":"textHighlightEnable:false"},{"offset":0,"length":327,"style":"textShadowEnable:false"},{"offset":0,"length":327,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"9dib9","text":"Design your evaluation to assess how successfully the learner met the training\'s learning objectives. Look at the combined results for all learners to help you understand their learning and identify data trends that indicate challenging topics for your learners—which might show a need to improve course content or instruction.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":327,"style":"backgroundColor:unset"},{"offset":0,"length":327,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":327,"style":"textHighlightEnable:false"},{"offset":0,"length":327,"style":"textShadowEnable:false"},{"offset":0,"length":327,"style":"overridden:false"},{"offset":0,"length":327,"style":"hlnk:"},{"offset":0,"length":327,"style":"hlnkt:wp"},{"offset":0,"length":327,"style":"textOutlineEnable:false"},{"offset":0,"length":327,"style":"opacity:1"},{"offset":0,"length":327,"style":"hlnke:true"}],"entityRanges":[],"data":{"presetId":"text-body-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -6144,8 +6144,8 @@ vb:[-1,-1,2,2]
 si1536:{
 name:'Text_39',
 type:1250,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1536c',
@@ -6175,7 +6175,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"9dib9","text":"Design your evaluation to assess how successfully the learner can apply what they learned when they return to the workplace. Look at the combined results for all learners to help you understand if learning transfer is occurring and which topics are challenging for learners to apply—which might show a need for follow-up support for the learners.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":346,"style":"hlnk:"},{"offset":0,"length":346,"style":"hlnkt:wp"},{"offset":0,"length":346,"style":"textOutlineEnable:false"},{"offset":0,"length":346,"style":"opacity:1"},{"offset":0,"length":346,"style":"hlnke:true"},{"offset":0,"length":346,"style":"backgroundColor:unset"},{"offset":0,"length":346,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":346,"style":"textHighlightEnable:false"},{"offset":0,"length":346,"style":"textShadowEnable:false"},{"offset":0,"length":346,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-2","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"9dib9","text":"Design your evaluation to assess how successfully the learner can apply what they learned when they return to the workplace. Look at the combined results for all learners to help you understand if learning transfer is occurring and which topics are challenging for learners to apply—which might show a need for follow-up support for the learners.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":346,"style":"hlnk:"},{"offset":0,"length":346,"style":"hlnkt:wp"},{"offset":0,"length":346,"style":"textOutlineEnable:false"},{"offset":0,"length":346,"style":"opacity:1"},{"offset":0,"length":346,"style":"hlnke:true"},{"offset":0,"length":346,"style":"backgroundColor:unset"},{"offset":0,"length":346,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":346,"style":"textHighlightEnable:false"},{"offset":0,"length":346,"style":"textShadowEnable:false"},{"offset":0,"length":346,"style":"overridden:false"}],"entityRanges":[],"data":{"presetId":"text-body-1","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false","verticalAlign":"middle"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -6297,8 +6297,8 @@ vb:[-1,-1,2,2]
 si1587:{
 name:'Paragraph_Group_8',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1587c',
@@ -6469,8 +6469,8 @@ vb:[-1,-1,1,1]
 si1593:{
 name:'Paragraph_8',
 type:1268,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 rp:0,
 rpa:0,
 mdi:'si1593c',
@@ -6636,8 +6636,8 @@ vb:[-1,-1,1,1]
 Slide495:{
 lb:'Title and text 1',
 id:495,
-from:1531,
-to:1620,
+from:1801,
+to:1890,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7289,7 +7289,14 @@ resources:['dr/0553.svg']
 
 }
 ];
-cp.model.audioresources=[];
+cp.model.audioresources=[{
+slideID:0,
+ResourceList:{
+resources:['ar/KeyClick.mp3']
+}
+
+}
+];
 cp.model.videoresources=[];
 cp.model.videos=[
 ];
@@ -7298,6 +7305,7 @@ cp.model.slideVideos=[
 cp.model.tocVideos=[
 ];
 cp.model.audios=[
+'ar/KeyClick.mp3'
 ];
 
 cp.initVariables = function(){
